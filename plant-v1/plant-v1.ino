@@ -42,7 +42,7 @@ void loop() {
   Serial.print(percentageHumidity);
   Serial.println("%");
 
-  if(percentageHumidity < 50) {
+  if(percentageHumidity > 40) {
     digitalWrite(IN1, LOW);
   } else {
     digitalWrite(IN1, HIGH);
