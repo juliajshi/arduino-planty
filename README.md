@@ -23,6 +23,4 @@ This is an early version. Next steps may include:
 
 # DIAGRAM
 
-There are a number of connections to be made. Lining up the display with the top of the breadboard helps to identify its pins without too much counting, especially if the breadboard has its rows numbered with row 1 as the top row of the board. Do not forget, the long yellow lead that links the slider of the pot to pin 3 of the display. The potentiometer is used to control the contrast of the display.
-
 <img align="center" src="https://github.com/user-attachments/assets/2e1a04f3-41ad-4d17-aea6-f46dacde4115" style="max-width:100%;" height="500">
