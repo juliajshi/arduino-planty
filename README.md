@@ -23,4 +23,4 @@ This is an early version. Next steps may include:
 
 # DIAGRAM
 
-<img align="center" src="https://github.com/user-attachments/assets/2e1a04f3-41ad-4d17-aea6-f46dacde4115" style="max-width:100%;" height="500">
+<img align="center" src="https://github.com/user-attachments/assets/2e1a04f3-41ad-4d17-aea6-f46dacde4115" height="500">
